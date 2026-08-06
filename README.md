@@ -185,21 +185,8 @@ Minha principal motivação é criar softwares escaláveis, seguros e bem estrut
 
 <p align="center">
   <img 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=Clayton-Modder&show_icons=true&include_all_commits=true&locale=pt-br&hide_border=true&bg_color=000000&title_color=39FF14&icon_color=39FF14&text_color=FFFFFF" 
-  />
-  <img 
-    alt="Top Languages" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clayton-Modder&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true&bg_color=000000&title_color=39FF14&text_color=FFFFFF" 
-  />
-</p>
-
-<p align="center">
-  <img 
     alt="GitHub Streak" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Clayton-Modder&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Clayton&hide_border=true&background=000000&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" 
   />
 </p>
 
