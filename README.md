@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1F0D,100:39FF14&height=220&section=header&text=Clayton%20Modder&fontSize=55&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20FullStack&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://www.youtube.com/?sub_confirmation=1">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Clayton+%F0%9F%91%8B;Desenvolvedora+FullStack+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%F0%9F%9A%80;Criadora+de+conte%C3%BAdo+no+YouTube+%F0%9F%8E%A5" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Clayton+%F0%9F%91%8B;Desenvolvedor+FullStack+%F0%9F%92%BB;Apaixonado+por+Tecnologia+%F0%9F%9A%80;" alt="Typing SVG" />
 </a>
 
 ![line](https://user-images.githubusercontent.com/622369/206467632-63e0d3c0-6b8a-4ffb-bd8c-58cbf6d1e5f6.gif)
